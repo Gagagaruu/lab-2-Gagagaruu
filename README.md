@@ -3,8 +3,8 @@
 
 ## 👤 Información del alumno
 
-- Nombre:
-- Matrícula:
+- Nombre: Alexander Juárez
+- Matrícula:zs25018118
 - Fecha:
 
 ## 🎯 Objetivos
